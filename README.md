@@ -2,7 +2,7 @@
 
 ## Student Information
 
-**Name:** Your Name  
+**Name:** hubert buenaventura
 **Section:** PC16  
 **Course:** Mobile Development w/ Lab
 
